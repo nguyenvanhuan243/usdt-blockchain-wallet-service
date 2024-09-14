@@ -1,7 +1,3 @@
-# usdt-blockchain-wallet-service
-usdt-blockchain-wallet-service
-
-
 # 🔥 FIOTECH SOLUTIONS
 
 FIOTECH SOLUTIONS provides a range of services related to cryptocurrency, tokens, coins, exchanges, and financial technology platforms.
