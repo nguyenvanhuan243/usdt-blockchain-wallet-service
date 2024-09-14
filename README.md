@@ -1,3 +1,6 @@
+# Guide
+Wallet service on Binance Smart Chain
+
 # 🔥 FIOTECH SOLUTIONS
 
 FIOTECH SOLUTIONS provides a range of services related to cryptocurrency, tokens, coins, exchanges, and financial technology platforms.
