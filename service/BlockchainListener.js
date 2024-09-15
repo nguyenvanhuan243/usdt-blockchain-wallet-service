@@ -33,3 +33,5 @@ async function startBlockchainListener() {
 module.exports = {
     startBlockchainListener: startBlockchainListener()
 };
+
+// Listen to Smart Contact Events with Moralis: https://moralis.io/how-to-listen-to-smart-contract-events-using-ethers-js/
