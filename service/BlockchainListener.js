@@ -3,9 +3,10 @@ const config = require("../config");
 const axios = require("axios");
 const AssetModel = require('../model/Asset.model.js')
 
-function startBlockchainListener() {
+async function startBlockchainListener() {
     console.log("########################################## Started Blockchain Listener")
-    const contract = config.getTokenContract;
+    const contract = await config.getTokenContract;
+    console.log("Contract ##############", contract)
     contract.on('Transfer', (from, to, value, event) => {
         const transactionInfos = {
             from: from,

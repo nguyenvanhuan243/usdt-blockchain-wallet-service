@@ -35,7 +35,7 @@ async function checkMainNetURL() {
   };
 }
 
-function getTokenContract() {
+async function getTokenContract() {
   return isMainnet ? tokenContractMainNet : tokenContractTestNet;
 }
 
